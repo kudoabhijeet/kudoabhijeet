@@ -10,10 +10,6 @@
 <a href="https://www.instagram.com/kudoabhijeet/">
   <img align="left" alt="Abhijeet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm Abhijeet Prasad, a Computer Science Student 🚀 based in India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@UPES-OPEN](https://github.com/upes-open/), Freelancer 👨🏽‍💻 and an Intern 👨🏽‍💼[@StatusNeo](https://statusneo.com/).
@@ -39,5 +35,5 @@ Hi, I'm Abhijeet Prasad, a Computer Science Student 🚀 based in India, current
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=kudoabhijeet&show_icons=true&hide_border=true)
+![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=kudoabhijeet&show_icons=true&hide_border=true)
 
