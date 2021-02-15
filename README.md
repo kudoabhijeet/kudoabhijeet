@@ -1,39 +1,50 @@
-### Hi 👋🏽, I'm [Abhijeet](https://kudoabhijeet.com) 
-<br/>
+<p align="center">
+ <img width="100px" src="https://kudoabhijeet.com/assets/images/me.jpg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Hi 👋🏽, I'm Abhijeet</h2>
+</p>
 
-<a href="https://twitter.com/kudoabhijeet">
-  <img align="left" alt="Abhijeet prasad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kudoabhijeet/">
-  <img align="left" alt="Abhijeet's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/kudoabhijeet/">
-  <img align="left" alt="Abhijeet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
+[![Linkedin Badge](https://img.shields.io/badge/-kudoabhijeet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KudoAbhijeet/)](https://www.linkedin.com/in/KudoAbhijeet/)
+[![Instagram Badge](https://img.shields.io/badge/-kudoabhijeet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kudoabhijeet/)](https://instagram.com/kudoabhijeet)
+[![Gmail Badge](https://img.shields.io/badge/-abhi.prasad16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhi.prasad16@gmail.com)](mailto:abhi.prasad16@gmail.com)
 
-Hi, I'm Abhijeet Prasad, a Computer Science Student 🚀 based in India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@UPES-OPEN](https://github.com/upes-open/), Freelancer 👨🏽‍💻 and an Intern 👨🏽‍💼[@StatusNeo](https://statusneo.com/).
+### About Me
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+I'm a 21y/o Prefinal year CS Undergraduate 🚀, based in India. 
 
-- 🌱 I’m currently practicing Jenkins, Docker, Terraform and other DevOps tools; 
-- ✌️  I'm also learning App Dev and Cloud Technologies;
-- 🤔 I’m looking for help with Machine Learning Algorithms;
-- ❄️ I maintain a list of learning track for Golang, Java, Django;
-- 📫 Reach out to me : abhi.prasad16@gmail.com;
-- 📝[My CV/Resume](https://drive.google.com/file/d/1MG4-mRKgQxrvN0VsGV4p8Mqd7Dtz_PjI/view)
+I'm a community member at [@UPES-OPEN](https://github.com/upes-open).
 
-**Languages & Tools**
+Former SDE Intern [@StatusNeo](https://www.statusneo.com).
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<hr>
 
-![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=kudoabhijeet&show_icons=true&hide_border=true)
+### Tools & Technologies⚡
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
+### Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kudoabhijeet&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudoabhijeet&hide=TeX@&layout=compact)
 
