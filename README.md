@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://kudoabhijeet.com/assets/images/me.jpg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://avatars.githubusercontent.com/u/35054601?s=460&u=ab959c2004b5cafe6c1c4a61063e1975ec5c51c9&v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi 👋🏽, I'm Abhijeet</h2>
 </p>
 
