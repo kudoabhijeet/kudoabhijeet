@@ -11,7 +11,7 @@
 
 I'm a 21y/o Prefinal year CS Undergraduate 🚀, based in India. 
 
-I'm a community member at [@UPES-OPEN](https://github.com/upes-open).
+I'm a Collaboration Manager at [@UPES-OPEN](https://github.com/upes-open).
 
 Former SDE Intern [@StatusNeo](https://www.statusneo.com).
 
