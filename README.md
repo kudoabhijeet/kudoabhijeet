@@ -42,9 +42,11 @@ Former SDE Intern [@StatusNeo](https://www.statusneo.com).
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7ebc09d0c903&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ### Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kudoabhijeet&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudoabhijeet&hide=TeX@&layout=compact)
+
 
